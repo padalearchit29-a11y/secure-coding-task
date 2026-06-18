@@ -1,0 +1,47 @@
+# PHP Login System - Security Awareness Project
+
+## Overview
+
+This project is a simple web-based login system built using PHP, MySQL, HTML, and XAMPP.  
+It is designed for cybersecurity learning and demonstrates common web vulnerabilities such as SQL Injection and Cross-Site Scripting (XSS), along with their secure fixes.
+
+This project is part of cybersecurity practice for understanding how attackers exploit weak authentication systems and how to prevent them.
+
+---
+
+## Topics Covered
+
+* Basic Login System using PHP
+* Client-Server Communication (POST Method)
+* SQL Injection Attack Simulation
+* Cross-Site Scripting (XSS) Basics
+* Secure Coding Practices
+* Prepared Statements in PHP
+* Database Connectivity using MySQL
+
+---
+
+## Features
+
+* Simple login form interface
+* Backend authentication using PHP
+* MySQL database integration
+* Vulnerable version (for learning attacks)
+* Secure version (with protection implemented)
+* Attack payload testing support
+
+---
+
+## Tools Used
+
+* XAMPP (Apache + MySQL)
+* PHP
+* MySQL
+* HTML
+* VS Code
+
+---
+
+## Attack Examples (for Learning)
+
+### SQL Injection Payload
